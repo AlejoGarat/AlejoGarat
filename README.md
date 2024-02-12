@@ -6,7 +6,6 @@ Hi there! 👋 I am Alejo Garat, a software engineering student with a passion f
 
 - 🎓 I am currently pursuing a degree in Software Engineering.
 - 👨‍🏫 I also work as an Artificial Intelligence lecturer.
-- 💬 Feel free to reach out to me if you have any questions or just want to chat about AI, ML, or anything tech-related!
 
 ## Projects
 
