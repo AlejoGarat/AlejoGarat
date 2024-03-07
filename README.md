@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! 👋 I am Alejo Garat, a software engineering student with a passion for Artificial Intelligence and Machine Learning. Here's a bit more about me:
+Hi there! 👋 I am Alejo Garat, a computer engineering student with a passion for Artificial Intelligence and Machine Learning. Here's a bit more about me:
 
 - 🎓 I am currently pursuing a degree in Software Engineering.
 - 👨‍🏫 I also work as an Artificial Intelligence lecturer.
