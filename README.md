@@ -5,7 +5,7 @@
 Hi there! 👋 I am Alejo Garat, a computer engineering with a passion for Artificial Intelligence and Machine Learning. Here's a bit more about me:
 
 - 🎓 I am a Computer Engineer.
-- 👨‍🏫 I also work as an Artificial Intelligence lecturer.
+- 👨‍🏫 I also work as an Artificial Intelligence and Machine Learning lecturer.
 
 ## Projects
 
